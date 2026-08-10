@@ -1,1 +1,1 @@
-This repository contains MATLAB code used to design and test antennas for use in a hydrogen line telescope with a 2.4m dish.
+This is a repository of code for American University's various radio astronomy, satellite tracking, and RF projects.
