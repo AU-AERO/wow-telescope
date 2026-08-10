@@ -1,1 +1,1 @@
-This is a repository of code for American University's various radio astronomy, satellite tracking, and RF projects.
+This is a repository of code for American University's hydrogen line telescope.
